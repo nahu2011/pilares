@@ -1,98 +1,100 @@
 #EXTM3U
-#EXTINF:0, AnimeStation * | AR
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Undefined",El Doce (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:0, AnimeStation
 #EXTVLCOPT:network-caching=4000
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Latino Kids TV * | UY
+#EXTINF:0, Latino Kids TV
 #EXTVLCOPT:network-caching=4000
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 13 San Luis * | AR
+#EXTINF:0, Canal 13 San Luis
 #EXTVLCOPT:network-caching=4000
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 4 Telecondor * | AR
+#EXTINF:0, Canal 4 Telecondor
 #EXTVLCOPT:network-caching=4000
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 5 del Pueblo * | AR
+#EXTINF:0, Canal 5 del Pueblo
 #EXTVLCOPT:network-caching=4000
 https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal XFN * | AR
+#EXTINF:0, Canal XFN
 #EXTVLCOPT:network-caching=4000
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Crossing TV * | AR
+#EXTINF:0, Crossing TV
 #EXTVLCOPT:network-caching=4000
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
-#EXTINF:0, Milennio TV * | AR
+#EXTINF:0, Milennio TV
 #EXTVLCOPT:network-caching=4000
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM3UCL
-#EXTINF:0, N24TV * | AR
+#EXTINF:0, N24TV 
 #EXTVLCOPT:network-caching=4000
 https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8?PlaylistM3UCL
-#EXTINF:0, Neo TV * | AR
+#EXTINF:0, Neo TV
 #EXTVLCOPT:network-caching=4000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:0, Señal Urbana * | AR
+#EXTINF:0, Señal Urbana 
 #EXTVLCOPT:network-caching=4000
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?PlaylistM3UCL
-#EXTINF:0, Tele Mix * | AR
+#EXTINF:0, Tele Mix
 #EXTVLCOPT:network-caching=4000
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, UNaM Transmedia * | AR
+#EXTINF:0, UNaM Transmedia
 #EXTVLCOPT:network-caching=4000
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
-#EXTINF:0, UCL Televisión LATAM * | UY
+#EXTINF:0, UCL Televisión LATAM
 #EXTVLCOPT:network-caching=4000
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:0, Mundo de la Musica TV * | CL
+#EXTINF:0, Mundo de la Musica TV
 #EXTVLCOPT:network-caching=4000
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Retro Plus TV * | CL
+#EXTINF:0, Retro Plus TV
 #EXTVLCOPT:network-caching=4000
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Rewind Radio y TV * | CL
+#EXTINF:0, Rewind Radio y TV
 #EXTVLCOPT:network-caching=4000
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Tango TV * | AR
+#EXTINF:0, Tango TV 
 #EXTVLCOPT:network-caching=4000
 https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Anime Zone TV | AR
+#EXTINF:0, Anime Zone TV
 #EXTVLCOPT:network-caching=4000
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:0, Locomotion | AR
+#EXTINF:0, Locomotion
 #EXTVLCOPT:network-caching=4000
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:0, Magic Club | AR
+#EXTINF:0, Magic Club
 #EXTVLCOPT:network-caching=4000
 https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8?PlaylistM3UCL
-#EXTINF:0, Magic Kids | AR
+#EXTINF:0, Magic Kids
 #EXTVLCOPT:network-caching=4000
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
-#EXTINF:0, Paka Paka | AR
+#EXTINF:0, Paka Paka
 #EXTVLCOPT:network-caching=4000
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, VariedTV | AR
+#EXTINF:0, VariedTV
 #EXTVLCOPT:network-caching=4000
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Max Television | AR
+#EXTINF:0, 13 Max Television
 #EXTVLCOPT:network-caching=4000
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 5R TV Santa Fe | AR
+#EXTINF:0, 5R TV Santa Fe
 #EXTVLCOPT:network-caching=4000
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
-#EXTINF:0, 5TV | AR
+#EXTINF:0, 5TV
 #EXTVLCOPT:network-caching=4000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, A24 | AR
+#EXTINF:0, A24
 #EXTVLCOPT:network-caching=4000
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
-#EXTINF:0, Acequia | AR
+#EXTINF:0, Acequia
 #EXTVLCOPT:network-caching=4000
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
-#EXTINF:0, Aire de Santa Fe | AR
+#EXTINF:0, Aire de Santa Fe
 #EXTVLCOPT:network-caching=4000
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, America Tucuman | AR
+#EXTINF:0, America Tucuman
 #EXTVLCOPT:network-caching=4000
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8?PlaylistM3UCL
-#EXTINF:0, Antena 91 | AR
+#EXTINF:0, Antena 91
 #EXTVLCOPT:network-caching=4000
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8?PlaylistM3UCL
 #EXTINF:0, Argentinisima Satelital | AR
