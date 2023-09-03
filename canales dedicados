@@ -1,12 +1,11 @@
 #EXTM3U
-
-#EXTVLCOPT:network-caching=4000
+#EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Undefined",5TV Corrientes (480p) [Not 24/7]
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693797383/ei/p_f0ZMnBAYad5gTY_ZfQBg/ip/181.89.84.107/id/eoL3NU7DFTw.1475/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3CDVRp--4zPDmP4dgb2hz-SgqGZaWCMIyOV-_6Fy0C8Va6Lv4E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJCmg4z-0xIzZWKNNHqiY0I7HKqQcfUTEqslvwZuS_WxAiA2J_x0c7YJP6ym4L7k0aNGLuEj6Y6-N3Lj4lq8o0Y3fw%3D%3D/file/index.m3u8
 
-#EXTVLCOPT:network-caching=4000
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693798453/ei/1fv0ZJeBCpGb4dUP4NSTiA4/ip/181.89.84.107/id/HoSBsp2OMvg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f5uju62mjizled6Bjqey98HpDCbejXH_56GlbYHD7rCPbKMfFoA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIsU2NbqSb2vYiwQAOU8tCX9MidrEMvhhIPhKWJladRUAiB9SmKc7iX4wsRpQJXFtjwcaWdau2c0ndtrYqtu5UYtvw%3D%3D/file/index.m3u8
 
-#EXTVLCOPT:network-caching=4000
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693798503/ei/B_z0ZND_BO-j4dUP86ml4Aw/ip/181.89.84.107/id/HPiv1pzIPRc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f28Vu30-iDjMSeUeAdiJUxcBwX47HQw14aZwNeP1QR7dbjmJPj4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMWiRI8oA5luoDbkMytJ6kT_PjiNURN71dYeLFRqK5WPAiEA1XmmO8Lo8T0X38YFmO3B67AO1WDixExYACPRq7iXXwY%3D/file/index.m3u8
 
 #EXTVLCOPT:network-caching=4000
