@@ -1,20 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="El Doce" tvg-logo="" group-title="Undefined"
-#EXT-X-TARGETDURATION:120
-https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-
-#EXTINF:-1 tvg-id="LN+" tvg-logo="" group-title="Undefined"
-#EXT-X-TARGETDURATION:120
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
-#EXTINF:-1 tvg-id="TN" tvg-logo="" group-title="Undefined"
-#EXT-X-TARGETDURATION:120
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="" group-title="Undefined"
-#EXT-X-TARGETDURATION:120
-https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-logo="" group-title="Undefined"
-#EXT-X-TARGETDURATION:120
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="bc7c014a14bef6004cd4a41c4adc6d3e",El Doce
+http://192.168.3.113:9981/stream/channelid/1241611452?ticket=B85CD6406B7B033C83463F006E2DC663B2F68F31&profile=pass
