@@ -1,73 +1,9 @@
 #EXTM3U
-#EXTINF:-1 logo="https://i.imgur.com/QvF4l2t.png" tvg-id="1b7604e0b056dfac3e5a3a4a2784f6ec",13Max Television
+#EXTINF:-1 logo="" tvg-id="1b7604e0b056dfac3e5a3a4a2784f6ec",13Max Television
 http://192.168.3.113:9981/stream/channelid/1610905115?ticket=81465061EA615A65C57FFB31B0672E8EE5CCABD5&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/mSn7ACs.png" tvg-id="befdcf145da690ee53749c1a5031c42b",5TV Argentina
+
+#EXTINF:-1 logo="" tvg-id="befdcf145da690ee53749c1a5031c42b",5TV Argentina
 http://192.168.3.113:9981/stream/channelid/349175230?ticket=A71478FACE716065BB3AA8B093C5B2A82D345F67&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/LnXQkIU.png" tvg-id="fc33ad275307d616d0ce8be9a75472fc",A24
-http://192.168.3.113:9981/stream/channelid/665662460?ticket=0930384B6DE176E908624927793E5B9F624C6601&profile=pass
-#EXTINF:-1 logo="https://alternatv.ar/alternatv.png" tvg-id="9bbe6008a35b94c6773797711dccb021",AlternaTV
-http://192.168.3.113:9981/stream/channelid/140557979?ticket=0E4526FB623791AA8F0C853332A3354D3AA2D237&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/TJmzwv9.png" tvg-id="965d72bb11466b476080338508203b8b",America Tucuman
-http://192.168.3.113:9981/stream/channelid/997350806?ticket=013B6278BF1D5C4B5E1EEAB05A09B6A47FD855C1&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/xFgJawa.png" tvg-id="8d3b2344cf8bc95111860b352f7b9b18",Argentinisima Satelital
-http://192.168.3.113:9981/stream/channelid/1143159693?ticket=24F428760F82A11E4296F5E3629113969CFD6B9B&profile=pass
-#EXTINF:-1 logo="https://bvconline.com.ar/images/logo.png" tvg-id="d00ba87deea7180268c53f0f0ef249ed",BVC
-http://192.168.3.113:9981/stream/channelid/2108165072?ticket=FEDC5AB7C56F928EC10E8C02EF978774D9C1C641&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/FdWrWgt.png" tvg-id="b3ffbd8d045705a4bbbf98edfcb53fb7",Canal 10 de Junin
-http://192.168.3.113:9981/stream/channelid/230555571?ticket=7A5E32C12CA8FBFE1997BBB02BFE2AFAA539103C&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/zpJdUVC.png" tvg-id="c53a4a839d7a4077efe97a4dab3084cf",Canal 10 TV Rio Negro
-http://192.168.3.113:9981/stream/channelid/55196357?ticket=0C518670C3102A6DAE6E641406F978A3F3D3E461&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/OI97Sgq.png" tvg-id="c1dd633877cc74d3b4233b8e38b198a9",Canal 13 La Rioja
-http://192.168.3.113:9981/stream/channelid/946068929?ticket=8F61170F92AA703642C7A707D1AC1B95157AF68F&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-id="0d337ca624c70c8a1dbf8a1dcab9bcdf",Canal 26
-http://192.168.3.113:9981/stream/channelid/645673741?ticket=E5336952F214D17BFC3E5E2B4C459A29ADFE0013&profile=pass
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" tvg-id="00c831b74a98021e7ba5b9d23c67729f",Canal 2 Salta
-http://192.168.3.113:9981/stream/channelid/926009344?ticket=9FA0AD2E15FB2EF6C12C0A24CB205DCBA71F2985&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/IABFaH1.png" tvg-id="82e626d689168ee80ecd88f693b2a88c",Canal 3 Pinamar
-http://192.168.3.113:9981/stream/channelid/1445389954?ticket=81BE25332791BB3C2246FE77D4B7CB3D1D531EC6&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/qB6I274.png" tvg-id="260959c8a5c94f3b696e2b164ada2699",Canal 4 Jujuy
-http://192.168.3.113:9981/stream/channelid/1213794598?ticket=24C0B83FC7381A4549844C38065617E01989DAEF&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/WJjY3bu.png" tvg-id="7b0d0e800e8f5adc5ea05145c5356166",Canal 9 Santa Cruz
-http://192.168.3.113:9981/stream/channelid/920955?ticket=A9F4429BF714C6A2500BFA9DAD3F2510BAC6526A&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/NdQF9K9.png" tvg-id="ae3f2b9196a8700c28b9ae2d59c3dd80",Canal Siete
-http://192.168.3.113:9981/stream/channelid/288047022?ticket=55E508F939E7919B7B2A0E5B4E123FBA8471175F&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/zGubmgZ.png" tvg-id="a2bed77afcccfffd9a4b1396e57becae",Chilecito TV
-http://192.168.3.113:9981/stream/channelid/2060959394?ticket=7DAB25A6FDD84791EF1B925268790D6C8E2E0298&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/V1xZV72.png" tvg-id="378f84c775ad1bf83eca846d49379e9d",Ciudad Magazine
-http://192.168.3.113:9981/stream/channelid/1199869751?ticket=4D5E4EF5C45EFA41B714B4C215D03FED6B12B3A4&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/oL8SMTL.png" tvg-id="823a498b70bceb3e88c2b1a6afeb6e91",Ciudad TV Resistencia
-http://192.168.3.113:9981/stream/channelid/189348482?ticket=27C3EE366F3A49F8E68F239BC2B437AF6999E6E3&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" tvg-id="06a87ba9fc69450420be27125d94e8fc",Cronica TV
-http://192.168.3.113:9981/stream/channelid/695969798?ticket=D3A58D43FAA79225DD7C6836D762CF89871C0B0A&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/agVTEeO.png" tvg-id="ca01335e400dfebceacde21c75ee15a2",Doce Misiones
-http://192.168.3.113:9981/stream/channelid/1580401098?ticket=BB9EC5B4B16D9DC5D56A4B40910DAB21054E4BFA&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/HfyKPpD.png" tvg-id="1a60dc177be833accc44721cea051ef8",El Doce
-http://192.168.3.113:9981/stream/channelid/400318490?ticket=48968798D6182D2C9F25F022F49D8A1F02694F9E&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/cJHP7bU.png" tvg-id="666fdcce629053bba7a54b9cf4faf5c8",El Nueve
-http://192.168.3.113:9981/stream/channelid/1323069286?ticket=E669CCDF48283C028CBF79EA5A8D5F5C0B62B69D&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" tvg-id="5ee1e8cb23897dcc2c111218c4162466",El Trece
-http://192.168.3.113:9981/stream/channelid/1273553246?ticket=6B600426A1BD8AF665A157A1CDB478F621C7ED30&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/CMImqQY.png" tvg-id="f0e37c5c443c7b876176655b73350747",Magic Kids
-http://192.168.3.113:9981/stream/channelid/1551688688?ticket=894300393D40C571FF9F2FA7898B94F7FE4CC5E3&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/jX0lqy3.png" tvg-id="46c604d4acd995bd738eaf6972564157",Multivision Federal
-http://192.168.3.113:9981/stream/channelid/1409599046?ticket=ED67E8385F36684D6281E67AD57081B04CE9022E&profile=pass
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-id="a39d7f7e391e3c9fd731949408538870",MusicTop
-http://192.168.3.113:9981/stream/channelid/2122292643?ticket=18C031102D8D6905A10606371A8A8E377859B4CB&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/lJCIqYn.png" tvg-id="9690e0f3d8434b12a81cd67a7eabe351",NG Federal
-http://192.168.3.113:9981/stream/channelid/1944096918?ticket=FD53412B4594F07546B53EA3C45EB32BCE082A30&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/C1mY5X4.png" tvg-id="e364157b066c7763c132da5f79d4d050",Santa Fe Canal
-http://192.168.3.113:9981/stream/channelid/2064999651?ticket=580418618208C07F90119F564B79451D399BB53C&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/W2EUIL2.png" tvg-id="ce46e48da5055992dc611e5b2303639b",Sicardi TV
-http://192.168.3.113:9981/stream/channelid/233064142?ticket=15E143DBA254A40E9A77F54A9A36A490BA942C9B&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Eu7rHtj.jpg" tvg-id="f8247455e64331525abf58067d237126",T5 Satelital
-http://192.168.3.113:9981/stream/channelid/1433675000?ticket=F7C17C6325B53EDA327C777FDD66FB034B2C5C2F&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" tvg-id="6a179dc256599f9e8ebbc3a7c15c21d8",Telemax
-http://192.168.3.113:9981/stream/channelid/1117591402?ticket=7C6C80452652379A99512F78EADE5F2100A0CE98&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/byxXHzq.png" tvg-id="110e169ae3fbd10c13af43406f1dad44",Telenord Corrientes
-http://192.168.3.113:9981/stream/channelid/437653009?ticket=D23F3D94F98EC2AFE3DB28F70CDF9AABF7EAA1B1&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/LQCaoH9.png" tvg-id="26fb8d2fba198ef5db69e9cca97a2b9f",Tierra Mia TV
-http://192.168.3.113:9981/stream/channelid/797834022?ticket=6FDABB60F808CF8C39DF1F83F9A2F3940402A612&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/vFwPhPS.png" tvg-id="3ee28647851d778635281b3ec25c1b82",TN
-http://192.168.3.113:9981/stream/channelid/1200022078?ticket=0971379C122C4012E2A608FC4CCCEBC151DE1F63&profile=pass
-#EXTINF:-1 logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png" tvg-id="89ccced1610289b49d20fc674778b6e2",UNAM Transmedia
-http://192.168.3.113:9981/stream/channelid/1372507273?ticket=2E97A81A8D43265F3CDE32F1620928D5D46DDB2E&profile=pass
+
+#EXTINF:-1 logo="" tvg-id="befdcf145da690ee53749c1a5031c42b",El Doce
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697068881/ei/8eImZbi1JrOfobIP0vGhyA8/ip/181.89.84.107/id/eoL3NU7DFTw.1479/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5SsjyG3ssrGRNsjZ05Dvn4zbgbWQEOsjWXK6pJSolxI3QufVhc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALENYw8yAi0Up8QJlLD-PZSTIdUPorV5HgJtlAWN2t-8AiEAmIhMzJJDfejnvCCTc5OgESays1imMIz1r-jb1zNTCx0%3D/file/index.m3u8
