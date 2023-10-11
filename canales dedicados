@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 logo="" tvg-id="1b7604e0b056dfac3e5a3a4a2784f6ec",13Max Television
-http://192.168.3.113:9981/stream/channelid/1610905115?ticket=81465061EA615A65C57FFB31B0672E8EE5CCABD5&profile=pass
-
-#EXTINF:-1 logo="" tvg-id="befdcf145da690ee53749c1a5031c42b",5TV Argentina
-http://192.168.3.113:9981/stream/channelid/349175230?ticket=A71478FACE716065BB3AA8B093C5B2A82D345F67&profile=pass
-
-#EXTINF:-1 logo="" tvg-id="ElDoce",El Doce
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697068881/ei/8eImZbi1JrOfobIP0vGhyA8/ip/181.89.84.107/id/eoL3NU7DFTw.1479/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5SsjyG3ssrGRNsjZ05Dvn4zbgbWQEOsjWXK6pJSolxI3QufVhc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALENYw8yAi0Up8QJlLD-PZSTIdUPorV5HgJtlAWN2t-8AiEAmIhMzJJDfejnvCCTc5OgESays1imMIz1r-jb1zNTCx0%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="f3bd8614f1a51a11b2138ed4bfa82f6f",5tv
+http://192.168.3.113:9981/stream/channelid/344374771?ticket=6B47BB09C978A1B2D2881589289699FF6EBD692B&profile=matroska
+#EXTINF:-1 tvg-id="21b32b9f6d45cef1d916446172bc8f9d",El Doce
+http://192.168.3.113:9981/stream/channelid/522957601?ticket=7C7FE9EB75B84100C37C50B49BFF231B22DEF92C&profile=matroska
+#EXTINF:-1 tvg-id="f328037c78d80457c1d66302491ddaee",13Max
+http://192.168.3.113:9981/stream/channelid/2080581875?ticket=F7FEE656FD12235D09F658B53B5D93A53594937F&profile=matroska
