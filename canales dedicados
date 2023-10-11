@@ -5,5 +5,5 @@ http://192.168.3.113:9981/stream/channelid/1610905115?ticket=81465061EA615A65C57
 #EXTINF:-1 logo="" tvg-id="befdcf145da690ee53749c1a5031c42b",5TV Argentina
 http://192.168.3.113:9981/stream/channelid/349175230?ticket=A71478FACE716065BB3AA8B093C5B2A82D345F67&profile=pass
 
-#EXTINF:-1 logo="" tvg-id="befdcf145da690ee53749c1a5031c42b",El Doce
+#EXTINF:-1 logo="" tvg-id="ElDoce",El Doce
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697068881/ei/8eImZbi1JrOfobIP0vGhyA8/ip/181.89.84.107/id/eoL3NU7DFTw.1479/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5SsjyG3ssrGRNsjZ05Dvn4zbgbWQEOsjWXK6pJSolxI3QufVhc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALENYw8yAi0Up8QJlLD-PZSTIdUPorV5HgJtlAWN2t-8AiEAmIhMzJJDfejnvCCTc5OgESays1imMIz1r-jb1zNTCx0%3D/file/index.m3u8
